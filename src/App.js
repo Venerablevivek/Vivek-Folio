@@ -1,23 +1,35 @@
-import logo from './logo.svg';
 import './App.css';
+import Sidebar from "./components/sidebar/Sidebar";
+import Services from "./components/services/Services";
+import Resume from "./components/resume/Resume";
+import Portfolio from "./components/portfolio/Portfolio";
+import Home from "./components/home/Home";
+import About from "./components/about/About";
+import Blog from "./components/blog/Blog";
+import Contact from './components/contact/Contact';
+import Skill from './components/skills/Skill';
+// import Testimonials from "./components/testimonials/Testimonials";
+// import Pricing from "./components/pricing/Pricing";
+// import { useState } from 'react';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='wrapper' >
+      <div className='child-wrapper'>
+          <Sidebar />
+      </div>
+          <main className='main' >
+            <Home/>
+            <About/>
+            <Services/>
+            <Skill/>
+            <Resume/>
+            <Portfolio/>
+            {/* <Pricing/> */}
+            {/* <Testimonials/> */}
+            <Blog/>
+            <Contact/>
+          </main>
     </div>
   );
 }
