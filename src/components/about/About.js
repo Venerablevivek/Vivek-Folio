@@ -32,7 +32,7 @@ const About = () => {
               <li><span className=' text-green ' >✔</span> I'm currently exploring React.js and some advanced CS algorithms.</li>
             </ul>
             </p>
-            <a className='btn btn-download'  href="https://drive.google.com/file/d/1zdByhvdjLQ6GOphQ8L8iHKYbtsaU1pFO/view?usp=sharing" target='_blank' rel='noreferrer' >Download CV</a>
+            <a className='btn btn-download' href={Resume} target='_blank' rel='noreferrer' >Download CV</a>
           </div>
 
           <div className='about__skills grid' >
