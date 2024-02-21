@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Vivek-Folio/static/css/main.72406a01.css",
-    "main.js": "/Vivek-Folio/static/js/main.e1f03a82.js",
+    "main.css": "/Vivek-Folio/static/css/main.178d301b.css",
+    "main.js": "/Vivek-Folio/static/js/main.2cbe8ff8.js",
     "static/media/about-main.png": "/Vivek-Folio/static/media/about-main.0e7025cc6f0f12f1f30f.png",
     "static/media/Main-Sky.png": "/Vivek-Folio/static/media/Main-Sky.04ed3bfc74350a1c5074.png",
     "static/media/C++.png": "/Vivek-Folio/static/media/C++.d04b9f261aa396bc8a4c.png",
+    "static/media/Resume.pdf": "/Vivek-Folio/static/media/Resume.10fa8d8f381637618d66.pdf",
     "static/media/Img5.png": "/Vivek-Folio/static/media/Img5.59da723b27505851595a.png",
-    "static/media/Resume.pdf": "/Vivek-Folio/static/media/Resume.5794ea938af00b688311.pdf",
     "static/media/Img3.png": "/Vivek-Folio/static/media/Img3.bd09fadeb812dd867cd2.png",
     "static/media/Img1.png": "/Vivek-Folio/static/media/Img1.5b1fae437a03109079a3.png",
     "static/media/gfg.png": "/Vivek-Folio/static/media/gfg.c7a07f113978f00baf32.png",
@@ -37,11 +37,11 @@
     "static/media/Github.svg": "/Vivek-Folio/static/media/Github.e0493221353f5e3333b986e5f4eb50b0.svg",
     "index.html": "/Vivek-Folio/index.html",
     "static/media/Git.svg": "/Vivek-Folio/static/media/Git.3a71a2d03b1205894fb1d6dfcfc788a3.svg",
-    "main.72406a01.css.map": "/Vivek-Folio/static/css/main.72406a01.css.map",
-    "main.e1f03a82.js.map": "/Vivek-Folio/static/js/main.e1f03a82.js.map"
+    "main.178d301b.css.map": "/Vivek-Folio/static/css/main.178d301b.css.map",
+    "main.2cbe8ff8.js.map": "/Vivek-Folio/static/js/main.2cbe8ff8.js.map"
   },
   "entrypoints": [
-    "static/css/main.72406a01.css",
-    "static/js/main.e1f03a82.js"
+    "static/css/main.178d301b.css",
+    "static/js/main.2cbe8ff8.js"
   ]
 }
