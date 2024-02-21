@@ -11,6 +11,16 @@
     z-index: 1;
 }
 
+.toggle-btn{
+    position: absolute;
+    top: 2%;
+    right: -10%;
+    padding: 8px 10px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 5px;
+}
+
 .home__img{
     width: 175px;
     margin-bottom: 1.5rem;

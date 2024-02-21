@@ -34,6 +34,7 @@ export default function Home() {
   return (
     <div>
       <section className='home container' id='home'>
+      {/* <button className='toggle-btn' >Toggle</button> */}
         <div className='intro' >
             <img src={UserImg} alt='' className='home__img' />
             <h1 className='home__name' > Vivek Chaudhary </h1>
