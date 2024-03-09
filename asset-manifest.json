@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Vivek-Folio/static/css/main.178d301b.css",
-    "main.js": "/Vivek-Folio/static/js/main.2cbe8ff8.js",
+    "main.css": "/Vivek-Folio/static/css/main.2134a011.css",
+    "main.js": "/Vivek-Folio/static/js/main.fb97c6ba.js",
+    "static/media/Medicare.png": "/Vivek-Folio/static/media/Medicare.61bcb0762a3e5a5d25cc.png",
     "static/media/about-main.png": "/Vivek-Folio/static/media/about-main.0e7025cc6f0f12f1f30f.png",
     "static/media/Main-Sky.png": "/Vivek-Folio/static/media/Main-Sky.04ed3bfc74350a1c5074.png",
     "static/media/C++.png": "/Vivek-Folio/static/media/C++.d04b9f261aa396bc8a4c.png",
-    "static/media/Resume.pdf": "/Vivek-Folio/static/media/Resume.10fa8d8f381637618d66.pdf",
+    "static/media/Resume.pdf": "/Vivek-Folio/static/media/Resume.5dd82088f783e7aa3fe2.pdf",
     "static/media/Img5.png": "/Vivek-Folio/static/media/Img5.59da723b27505851595a.png",
     "static/media/Img3.png": "/Vivek-Folio/static/media/Img3.bd09fadeb812dd867cd2.png",
     "static/media/Img1.png": "/Vivek-Folio/static/media/Img1.5b1fae437a03109079a3.png",
@@ -32,16 +33,18 @@
     "static/media/MongoDB.svg": "/Vivek-Folio/static/media/MongoDB.55003af2c629675b0af175687c6970fc.svg",
     "static/media/dots-bg.svg": "/Vivek-Folio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "static/media/Redux.svg": "/Vivek-Folio/static/media/Redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/sun-icon.svg": "/Vivek-Folio/static/media/sun-icon.5e315598878cf8fca84d761898ee8737.svg",
     "static/media/Javascript.svg": "/Vivek-Folio/static/media/Javascript.fa3ecb79b97703729d7a0af06b667c22.svg",
     "static/media/Bootstrap.svg": "/Vivek-Folio/static/media/Bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
     "static/media/Github.svg": "/Vivek-Folio/static/media/Github.e0493221353f5e3333b986e5f4eb50b0.svg",
     "index.html": "/Vivek-Folio/index.html",
     "static/media/Git.svg": "/Vivek-Folio/static/media/Git.3a71a2d03b1205894fb1d6dfcfc788a3.svg",
-    "main.178d301b.css.map": "/Vivek-Folio/static/css/main.178d301b.css.map",
-    "main.2cbe8ff8.js.map": "/Vivek-Folio/static/js/main.2cbe8ff8.js.map"
+    "static/media/moon-icon.svg": "/Vivek-Folio/static/media/moon-icon.1d9b18d5ccacc02871a5d1a3945dea3f.svg",
+    "main.2134a011.css.map": "/Vivek-Folio/static/css/main.2134a011.css.map",
+    "main.fb97c6ba.js.map": "/Vivek-Folio/static/js/main.fb97c6ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.178d301b.css",
-    "static/js/main.2cbe8ff8.js"
+    "static/css/main.2134a011.css",
+    "static/js/main.fb97c6ba.js"
   ]
 }
