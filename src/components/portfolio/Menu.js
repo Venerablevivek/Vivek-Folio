@@ -4,6 +4,7 @@ import Work3 from "../../assets/work-3.svg";
 import Work4 from "../../assets/work-4.svg";
 import Work5 from "../../assets/work-5.svg";
 import Work6 from "../../assets/work-6.svg";
+import Medicare from '../../assets/Medicare.png'; 
 
 const Menu = [
     {
@@ -87,6 +88,13 @@ const Menu = [
       image: Work6,
       title: "Random Number Generator",
       category: "android",
+    },
+    {
+      id: 14,
+      image: Medicare,
+      title: "Medical Appointment Booking",
+      category: "fullstack",
+      link: 'https://medicare-appointment-booking.netlify.app/',
     },
   ];
 

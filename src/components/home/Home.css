@@ -21,6 +21,25 @@
     border-radius: 5px;
 }
 
+.toggle-img{
+    border-radius: 50%;
+    background-color:white;
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    padding: 8px 10px;
+    z-index: 100;
+    cursor: pointer;
+}
+
+.toggle-dark{
+    background-color: #1e2a47;
+}
+
+.bg-dark{
+    background-color: #1e2a47;
+}
+
 .home__img{
     width: 175px;
     margin-bottom: 1.5rem;
@@ -178,6 +197,9 @@ span{
     .home__img{
         width: 100px;
     }
+    .toggle-img{
+        right: 3%;
+    }
   }
 
 @media screen and (max-width: 768px) {
@@ -185,6 +207,9 @@ span{
         font-size: 1rem;
         padding: 0.5rem 1rem;
         line-height: 1;
+    }
+    .toggle-img{
+        right: 3%;
     }
 }
 
